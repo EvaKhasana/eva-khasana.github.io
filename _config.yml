@@ -31,6 +31,8 @@ comments :
 
 # Internal nav
 nav:
+ UIN SUSKA : "http://uin-suska.ac.id/"
+ SIF UIN : "http://sif.uin-suska.ac.id/"
  journal: "baseurl/journal/"
  gallery: "baseurl/gallery/"
  about: "baseurl/about/"
